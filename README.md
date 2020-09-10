@@ -1,3 +1,3 @@
-# deep-learning
-###### DEEP LEARNING with Python
-##### Francois Chollet
+###### deep-learning
+# DEEP LEARNING with Python
+## Francois Chollet
