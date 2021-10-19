@@ -1,5 +1,6 @@
                                                            
-# DEEP LEARNING with Python                                         
+## DEEP LEARNING with Python   
+# Author: Muhammad Tariq
                                              
                                                                 
                                                                           
