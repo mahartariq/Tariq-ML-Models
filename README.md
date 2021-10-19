@@ -1,5 +1,5 @@
                                                            
-### DEEP LEARNING with Python   
+### AI with Python   
 # Author: Muhammad Tariq
                                              
                                                                 
