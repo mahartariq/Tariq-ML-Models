@@ -1,0 +1,7 @@
+path: '/content/drive/MyDrive/dataset'  # dataset root dir
+train: '/content/drive/MyDrive/dataset/images/train'  
+val: '/content/drive/MyDrive/dataset/images/val' 
+
+# Classes
+nc: 4  # number of classes
+names: [ 'speed limit','yield','mandatory','other' ]  # class names
