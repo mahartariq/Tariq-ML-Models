@@ -8,6 +8,10 @@
 
 An enthusiastic and motivated Machine Learning Student, having proficiency in data importing, data cleaning, data transformation, analysis, data visualizing and data modeling. I have worked on problems across different domains. Researched and applied machine learning techniques including data analysis, predictive modeling, classification, and clustering.
 
+## Experience
+#### ML Intern
+Neurog,Islamabad (May 2022 - Present)
+
 ## Education
 #### The Islamia University of Bahawalpur
 MCS (2020-2022)
