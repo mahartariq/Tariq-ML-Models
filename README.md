@@ -34,7 +34,12 @@ Neurog,Islamabad (May 2022 - Present)
 > - ##### Computer Vision - Kaggle
 > - ##### PCAP: Programming Essentials in Python - Cisco Network Academy
 
-                                                                
+
+## Tech Stack
+> - Numpy - Pandas - Matplotlib - Seaborn - Scikit - OpenCV - TensorFlow - Keras - PyTorch
+> - Python - C++ - Javascript - C
+> - Linux - Git - Docker - AWS Sagemaker  
+> - Javascript - Django - Flask - HTML - CSS - Bootstrap - ES6 - Reactjs - MySQL
                                                                           
                                                  
                    
