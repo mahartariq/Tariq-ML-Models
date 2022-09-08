@@ -19,6 +19,10 @@ MCS (2020-2022)
 #### The Islamia University of Bahawalpur
 BSC(2 Year) (2017-2019)
 
+#### PIAIC
+Machine Learning (2019-2021)
+[PERFORMANCE STATEMENT](https://certification.piaic.org/PIAIC67639/)
+
 ## Certifications
 ##### Programming with Everybody - Coursera
 
