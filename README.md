@@ -39,7 +39,8 @@ Neurog,Islamabad (May 2022 - Present)
 > - Numpy - Pandas - Matplotlib - Seaborn - Scikit - OpenCV - TensorFlow - Keras - PyTorch - Spacy - NLTK - Beautiful Soup - Selenium
 > - Python - C++ - Javascript - C
 > - Linux - Git - Docker - AWS Sagemaker  
-> - Javascript - Django - Flask - HTML - CSS - Bootstrap - ES6 - Reactjs - MySQL
+> - Javascript - Django - Flask - HTML - CSS - Bootstrap - ES6 - Reactjs - Material-UI - MySQL
+> - Raspberry Pi - Arudino
                                                                           
                                                  
                    
