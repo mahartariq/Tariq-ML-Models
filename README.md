@@ -28,10 +28,9 @@ An enthusiastic and motivated Machine Learning Student, having proficiency in da
 
 ## Tech Stack
 > - Numpy - Pandas - Matplotlib - Seaborn - Scikit - OpenCV - TensorFlow - Keras - PyTorch - Spacy - NLTK - Beautiful Soup - Selenium
-> - Python - C++ - Javascript - C
+> - Python
 > - Linux - Git - Docker - AWS Sagemaker  
-> - Javascript - Django - Flask - HTML - CSS - Bootstrap - ES6 - Reactjs - Material-UI - MySQL
-> - Raspberry Pi - Arudino
+> - Django - Flask - MySQL
                                                                           
                                                  
                    
