@@ -10,7 +10,7 @@ An enthusiastic and motivated Machine Learning Student, having proficiency in da
 > MCS (2020-2022)
 >
 > #### PIAIC
-> Machine Learning (2019-2021)
+> Artificial Intelligence (2019-2021)
 > [PERFORMANCE STATEMENT](https://certification.piaic.org/PIAIC67639/)
 
 ## Certifications
